@@ -1,0 +1,37 @@
+.center {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+  text-align: center;
+  margin: 15px 0px;
+}
+
+.address {
+  display: flex;
+  padding: 15px;
+  background-color: white;
+  margin-top: 0px;
+}
+
+.buy {
+  background: linear-gradient(to bottom, #f7dfa5, #f0c14b);
+  width: 300px;
+  padding: 10px;
+}
+
+.end {
+  display: none;
+}
+
+.title1 {
+  flex: 0.3;
+}
+
+.add1 {
+  flex: 0.7;
+}
+
+.hei {
+  margin-top: 50px;
+  margin-left: 0px !important;
+}

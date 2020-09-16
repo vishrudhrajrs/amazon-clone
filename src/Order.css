@@ -1,0 +1,9 @@
+.orderm {
+  background-color: white;
+  margin: 25px;
+  padding: 20px;
+}
+
+.orderm hr {
+  display: none;
+}
